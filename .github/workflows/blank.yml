@@ -41,4 +41,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run Fuck163MusicTasks
         run: |
+           mkdir pic
+           cd pic
+           wget https://p3.music.126.net/WvGIrR5nWNuuykQVPTFLmg==/109951165127007563.jpg
+           cd ..
           ./Fuck163MusicTasks_linux_amd64
