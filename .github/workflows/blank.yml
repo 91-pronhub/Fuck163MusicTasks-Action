@@ -45,4 +45,4 @@ jobs:
            cd pic
            wget https://p3.music.126.net/WvGIrR5nWNuuykQVPTFLmg==/109951165127007563.jpg
            cd ..
-          ./Fuck163MusicTasks_linux_amd64
+           ./Fuck163MusicTasks_linux_amd64
